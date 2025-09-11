@@ -4,9 +4,9 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
+  const username="chai aur code"
     return (
-      <h1>chai aur react</h1>
+      <h1>chai aur react {username}</h1>
     );
 }
-
 export default App
